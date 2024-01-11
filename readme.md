@@ -2,6 +2,8 @@
 
 ![Hello GIF](assets/hello.gif)
 
+<div style="background-color: #f4f4f4; padding: 20px; border-radius: 10px;">
+
 ## About Me
 
 👋 Hi there! I'm Renato, a passionate Frontend Web Developer based in the beautiful country of Croatia. I'm currently exploring the dynamic world of web development, with a focus on crafting engaging and user-friendly interfaces.
@@ -25,4 +27,6 @@ Every project is a chance for me to learn and grow. I believe in the importance 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="10%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="10%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="10%" />
+</div>
+
 </div>
