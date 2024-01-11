@@ -20,8 +20,6 @@ Oh boy. This is a really wide list, but really, these are the ones I've sort of 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="width: 10%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 10%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="width: 10%"/>
-  <img src="https://svgarchive.com/wp-content/uploads/ethereum-eth.svg" style="width: 10%"/>
-  <img src="https://svgarchive.com/wp-content/uploads/solidity.svg" style="width: 6%"/>
 
 </div>
 
