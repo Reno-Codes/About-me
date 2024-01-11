@@ -1,7 +1,7 @@
 <img src="assets/hello.gif" align="center" />
 
 <h3 align="center">About Me</h3>
-[![Linkedin Badge](https://img.shields.io/badge/-RenoCodes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatolulic/)](https://www.linkedin.com/in/renatolulic/)
+##[![Linkedin Badge](https://img.shields.io/badge/-RenoCodes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatolulic/)](https://www.linkedin.com/in/renatolulic/)
 [![Gmail Badge](https://img.shields.io/badge/-reno.lulic94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reno.lulic94@gmail.com)](mailto:reno.lulic94@gmail.com)
 
 
