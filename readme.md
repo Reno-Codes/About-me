@@ -9,7 +9,7 @@
 </div>
 
 
-👋 Hi there! I'm Renato, a passionate Frontend Web Developer based in the beautiful country of Croatia. I'm currently exploring the dynamic world of web development, with a focus on crafting engaging and user-friendly interfaces.
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there! I'm Renato, a passionate Frontend Web Developer based in the beautiful country of Croatia. I'm currently exploring the dynamic world of web development, with a focus on crafting engaging and user-friendly interfaces.
 
 <h3 align="center">💻 Tech Stack</h3>
 
