@@ -4,15 +4,17 @@
 
 👋 Hi there! I'm Renato, a passionate Frontend Web Developer based in the beautiful country of Croatia. I'm currently exploring the dynamic world of web development, with a focus on crafting engaging and user-friendly interfaces.
 
-<h3 align="center">What do I do?</h3>
+<h3 align="center">💻 Tech Stack</h3>
 
-I'm really just more of passionate to being challenged and building something better. I've got my hands into enough places along the way, but I think the good mix of this knowledge adventure and exploration allowed me to keep being hungry for more knowledge, which is actually a good thing (If you ask me 😂).
+I thrive in the realms of HTML, CSS, and JavaScript, where I love turning ideas into interactive and visually appealing websites. Embracing the power of modern frameworks, I've also dived into the exciting realms of React and TypeScript to enhance my development workflow.
 
-I'm great problem solver, critical thinker and I would like to gain enough knowledge to be able to solve all the problems that I come across.
+<h3 align="center">🚀 Current Endeavors</h3>
 
-<h3 align="center">What can I work in and around?</h3>
+As a junior developer, I am committed to continuous learning and honing my skills. I'm enthusiastic about keeping up with the latest trends in frontend development and leveraging new technologies to create seamless and innovative web experiences.
 
-Oh boy. This is a really wide list, but really, these are the ones I've sort of gone headfirst into. Some of these, I have personally made projects on for my myself or for my friends.
+<h3 align="center">🌱 Learning Journey</h3>
+
+Every project is a chance for me to learn and grow. I believe in the importance of collaboration and exchanging ideas within the tech community. So, if you have any tips, tricks, or exciting projects, feel free to reach out!
 
 <br/>
 
