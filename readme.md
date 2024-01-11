@@ -2,8 +2,11 @@
 
 <h3 align="center">About Me</h3>
 
+<div align="center">
+  
 [![Linkedin Badge](https://img.shields.io/badge/-RenoCodes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatolulic/)](https://www.linkedin.com/in/renatolulic/)
 [![Gmail Badge](https://img.shields.io/badge/-reno.lulic94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reno.lulic94@gmail.com)](mailto:reno.lulic94@gmail.com)
+</div>
 
 
 👋 Hi there! I'm Renato, a passionate Frontend Web Developer based in the beautiful country of Croatia. I'm currently exploring the dynamic world of web development, with a focus on crafting engaging and user-friendly interfaces.
