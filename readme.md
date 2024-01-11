@@ -27,5 +27,3 @@ Every project is a chance for me to learn and grow. I believe in the importance 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="width: 10%"/>
 
 </div>
-
-If you've come so far reading my bio, well, thanks!
