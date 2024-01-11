@@ -2,7 +2,7 @@
 
 <h3 align="center">About Me</h3>
 
-I was born in Osijek, Croatia, lived mostly in Đakovo, until I moved to Osijek. (psst.. between us, it was more the love, wine and cheese stringing me along here) and been here since then. Well we can all agree the pandemic hasn't allowed a further trips than Osijek. 😂
+👋 Hi there! I'm Renato, a passionate Frontend Web Developer based in the beautiful country of Croatia. I'm currently exploring the dynamic world of web development, with a focus on crafting engaging and user-friendly interfaces.
 
 <h3 align="center">What do I do?</h3>
 
