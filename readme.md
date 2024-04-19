@@ -6,6 +6,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-RenoCodes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatolulic/)](https://www.linkedin.com/in/renatolulic/)
 [![Gmail Badge](https://img.shields.io/badge/-reno.lulic94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reno.lulic94@gmail.com)](mailto:reno.lulic94@gmail.com)
+[Portfolio](https://reno-codes.github.io/reno-codes-portfolio/ "Renato's Portfolio")
 </div>
 
 
@@ -32,5 +33,9 @@ Every project is a chance for me to learn and grow. I believe in the importance 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 10%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 10%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="width: 10%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="width: 10%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json" style="width: 10%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" style="width: 10%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mobx/mobx-original.svg" style="width: 10%"/>
 
 </div>
