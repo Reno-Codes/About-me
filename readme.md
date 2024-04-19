@@ -38,6 +38,7 @@ Every project is a chance for me to learn and grow. I believe in the importance 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" style="width: 10%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mobx/mobx-original.svg" style="width: 10%"/>
 
-  ![Image Alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mobx/mobx-original.svg "Optional title"))
+  ![Image Alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mobx/mobx-original.svg "Mobx State Management")
+  ![Image Alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg "Supabase")
 
 </div>
